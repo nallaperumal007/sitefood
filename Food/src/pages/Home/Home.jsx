@@ -22,7 +22,7 @@ function Home() {
                 <div className='container'>
                     <h4 className='mb-5 text-warning fw-bold'>Welcome To Food Website</h4>
                     <h4 className='mb-5 text-success fw-bold'>{typeEffect}</h4>
-                    >
+                    
                     <div className='row justify-content-center'>
                         <div className='col-md-4 mb-3'>
                             <a href='https://food-two-tan.vercel.app/' className='btn btn-danger btn-lg btn-block'>WebApp</a>
